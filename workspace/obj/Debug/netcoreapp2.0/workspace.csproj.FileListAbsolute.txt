@@ -1,0 +1,10 @@
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\workspace\bin\Debug\netcoreapp2.0\workspace.deps.json
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\workspace\bin\Debug\netcoreapp2.0\workspace.runtimeconfig.json
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\workspace\bin\Debug\netcoreapp2.0\workspace.runtimeconfig.dev.json
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\workspace\bin\Debug\netcoreapp2.0\workspace.dll
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\workspace\bin\Debug\netcoreapp2.0\workspace.pdb
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\workspace\obj\Debug\netcoreapp2.0\workspace.csproj.CoreCompileInputs.cache
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\workspace\obj\Debug\netcoreapp2.0\workspace.AssemblyInfoInputs.cache
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\workspace\obj\Debug\netcoreapp2.0\workspace.AssemblyInfo.cs
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\workspace\obj\Debug\netcoreapp2.0\workspace.dll
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\workspace\obj\Debug\netcoreapp2.0\workspace.pdb
