@@ -5,6 +5,23 @@ namespace workspace
 {
     class Program
     {
+
+// This an example of a static function. Define it within the class "Program", but outside of the "Main" function. We can freely call it in Main once defined here.
+// public defines level of access. Where can I run this function?
+// static defines ...?
+// void defines the return. What is returned when I run this function?
+        public static void newfunction(string name = "buddy") // If we pass the parameter an argument here, it becomes the default if no argument is provided on Run.
+        {
+            Console.WriteLine("Hello, {0}!", name);
+        }
+
+        public static string secondfunction(string name = "buddy")
+        {
+            return $"Hello, {name}";
+        }
+
+
+// Main function
         static void Main(string[] args)
         {
 
@@ -54,6 +71,12 @@ namespace workspace
             {
                 Console.WriteLine("Item with key: {0} contains the value: {1}", i.Key,i.Value);
             }
+        
+// Calling functions
+            newfunction();
+            newfunction("Adrian");
+            string sndfunction = secondfunction();
+            Console.WriteLine(sndfunction);
         }
     }
 }

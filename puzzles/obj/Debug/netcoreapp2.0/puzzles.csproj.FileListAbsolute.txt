@@ -1,0 +1,10 @@
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\puzzles\bin\Debug\netcoreapp2.0\puzzles.deps.json
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\puzzles\bin\Debug\netcoreapp2.0\puzzles.runtimeconfig.json
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\puzzles\bin\Debug\netcoreapp2.0\puzzles.runtimeconfig.dev.json
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\puzzles\bin\Debug\netcoreapp2.0\puzzles.dll
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\puzzles\bin\Debug\netcoreapp2.0\puzzles.pdb
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\puzzles\obj\Debug\netcoreapp2.0\puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\puzzles\obj\Debug\netcoreapp2.0\puzzles.AssemblyInfoInputs.cache
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\puzzles\obj\Debug\netcoreapp2.0\puzzles.AssemblyInfo.cs
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\puzzles\obj\Debug\netcoreapp2.0\puzzles.dll
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\puzzles\obj\Debug\netcoreapp2.0\puzzles.pdb

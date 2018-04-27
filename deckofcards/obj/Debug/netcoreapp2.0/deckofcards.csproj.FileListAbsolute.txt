@@ -1,0 +1,10 @@
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\deckofcards\bin\Debug\netcoreapp2.0\deckofcards.deps.json
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\deckofcards\bin\Debug\netcoreapp2.0\deckofcards.runtimeconfig.json
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\deckofcards\bin\Debug\netcoreapp2.0\deckofcards.runtimeconfig.dev.json
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\deckofcards\bin\Debug\netcoreapp2.0\deckofcards.dll
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\deckofcards\bin\Debug\netcoreapp2.0\deckofcards.pdb
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\deckofcards\obj\Debug\netcoreapp2.0\deckofcards.csproj.CoreCompileInputs.cache
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\deckofcards\obj\Debug\netcoreapp2.0\deckofcards.AssemblyInfoInputs.cache
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\deckofcards\obj\Debug\netcoreapp2.0\deckofcards.AssemblyInfo.cs
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\deckofcards\obj\Debug\netcoreapp2.0\deckofcards.dll
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\deckofcards\obj\Debug\netcoreapp2.0\deckofcards.pdb
