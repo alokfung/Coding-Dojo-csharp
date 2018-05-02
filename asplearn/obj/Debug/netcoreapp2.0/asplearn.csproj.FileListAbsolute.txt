@@ -1,0 +1,10 @@
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\asplearn\bin\Debug\netcoreapp2.0\asplearn.deps.json
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\asplearn\bin\Debug\netcoreapp2.0\asplearn.runtimeconfig.json
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\asplearn\bin\Debug\netcoreapp2.0\asplearn.runtimeconfig.dev.json
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\asplearn\bin\Debug\netcoreapp2.0\asplearn.dll
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\asplearn\bin\Debug\netcoreapp2.0\asplearn.pdb
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\asplearn\obj\Debug\netcoreapp2.0\asplearn.csproj.CoreCompileInputs.cache
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\asplearn\obj\Debug\netcoreapp2.0\asplearn.AssemblyInfoInputs.cache
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\asplearn\obj\Debug\netcoreapp2.0\asplearn.AssemblyInfo.cs
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\asplearn\obj\Debug\netcoreapp2.0\asplearn.dll
+C:\Users\Lok\Desktop\DojoAssignments\Coding Dojo\csharp\asplearn\obj\Debug\netcoreapp2.0\asplearn.pdb

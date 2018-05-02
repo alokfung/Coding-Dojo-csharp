@@ -1,0 +1,91 @@
+.container{
+    background-color: #27556C;
+    color: #D8D8D8;
+    margin: 0px auto;
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.content{
+    background-color: #898989;
+    margin: 0px auto;
+    width: 90%;
+    padding: 1%;
+}
+.profilepic{
+    width: 200px;
+}
+.imagediv{
+    padding: 0px;
+    margin: 0px 0px;
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+
+}
+#banner{
+    margin: -175px 0px;
+    width: 100%;
+}
+
+/* ROWS */
+.row{
+    vertical-align: top;
+    display: inline-block;
+}
+.ind1{
+    width: 25%;
+}
+.ind2{
+    width: 60%;
+}
+
+/* FORM */
+ul.form{
+    list-style: none;
+}
+ul.form li{
+    width: 20px;
+}
+
+/* NAV CLASS */
+ul.nav{
+    background-color: #993350;
+    list-style: none;
+    padding: 0px;
+}
+ul.nav li{
+    display: inline-block;
+    margin: 10px 0px;
+    padding: 0px;
+}
+
+ul.nav li a{
+    text-decoration-line: none;
+    color: #C2C2C2;
+    padding: 10px 30px;
+}
+ul.nav li a:hover{
+    background-color: #898989;
+}
+
+/* HEADERS */
+h1{
+    font-size: 18pt;
+}
+h2{
+    font-size: 14pt;
+    margin: 0px;
+}
+h3{
+    font-size: 12pt;
+    margin: 0px;
+}
+h4{
+    font-size: 10pt;
+    margin: 0px;
+}
+h5{
+    font-size: 8pt;
+    margin: 0px;
+}
