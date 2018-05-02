@@ -15,16 +15,17 @@
 .profilepic{
     width: 200px;
 }
+
+/* BANNER */
 .imagediv{
     padding: 0px;
     margin: 0px 0px;
     height: 300px;
     width: 100%;
     overflow: hidden;
-
 }
 #banner{
-    margin: -175px 0px;
+    margin: -22% 0px;
     width: 100%;
 }
 
